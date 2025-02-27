@@ -24,25 +24,25 @@ function sendMessage() {
     userMessage.textContent = message;
     messagesDiv.appendChild(userMessage);
     
-    // Fake bot thinking delay
-    const botThinking = document.createElement("div");
-    botThinking.className = "message bot";
-    botThinking.textContent = "Thinking...";
-    messagesDiv.appendChild(botThinking);
+    // Fake EGGGPT thinking delay
+    const EGGGPTThinking = document.createElement("div");
+    EGGGPTThinking.className = "message bot";
+    EGGGPTThinking.textContent = "Thinking...";
+    messagesDiv.appendChild(EGGGPTThinking);
     
     setTimeout(() => {
-        botThinking.remove(); // Remove "Thinking..."
+        EGGGPTThinking.remove(); // Remove "Thinking..."
 
         // Fake bot response with progressive typing
-        const botMessage = document.createElement("div");
-        botMessage.className = "message bot";
-        messagesDiv.appendChild(botMessage);
+        const EGGGPTMessage = document.createElement("div");
+        EGGGPTMessage.className = "message bot";
+        messagesDiv.appendChild(EGGGPTMessage);
         
         let responseText = createResponse(userMessage.textContent)
         let i = 0;
         function typeText() {
             if (i < responseText.length) {
-                botMessage.textContent += responseText.charAt(i);
+                EGGGPTMessage.textContent += responseText.charAt(i);
                 i++;
                 setTimeout(typeText, 50); // Adjust typing speed here
                 messagesDiv.scrollTop = messagesDiv.scrollHeight;
@@ -56,12 +56,12 @@ function sendMessage() {
                 setTimeout(() => {
                     // Append image after text response is fully typed
                     loadImage.remove(); //remove loading image
-                    const botImage = document.createElement("img");
-                    botImage.src = selectPicture(userMessage.textContent); 
-                    botImage.alt = "Egg";
-                    botImage.style.maxWidth = "50%"; // Ensures the image fits inside the chat
-                    messagesDiv.appendChild(botImage);
-                    botImage.onload = () => {
+                    const EGGGPTImage = document.createElement("img");
+                    EGGGPTImage.src = selectPicture(userMessage.textContent); 
+                    EGGGPTImage.alt = "Egg";
+                    EGGGPTImage.style.maxWidth = "50%"; // Ensures the image fits inside the chat
+                    messagesDiv.appendChild(EGGGPTImage);
+                    EGGGPTImage.onload = () => {
                         messagesDiv.scrollTop = messagesDiv.scrollHeight;
                     };
                 }, 1000);
