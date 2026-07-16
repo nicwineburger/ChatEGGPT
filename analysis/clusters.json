@@ -1,0 +1,738 @@
+{
+  "k": 19,
+  "silhouette": 0.12422396634213272,
+  "clusters": [
+    {
+      "cluster": 0,
+      "size": 23,
+      "topTerms": [
+        "retro_tech",
+        "retro_tech retro_tech",
+        "retro",
+        "vintage",
+        "reviews",
+        "gaming",
+        "tech",
+        "retro gaming",
+        "game",
+        "computers",
+        "classic",
+        "technology",
+        "pc",
+        "games",
+        "windows"
+      ],
+      "medianSubs": 257000,
+      "domains": [
+        [
+          "retro_tech",
+          23
+        ]
+      ],
+      "examples": [
+        "LGR",
+        "Techmoan",
+        "Auto Focus",
+        "Gaming Historian",
+        "Modern Vintage Gamer",
+        "Retro Game Corps",
+        "Michael MJD",
+        "Shank Mods"
+      ]
+    },
+    {
+      "cluster": 1,
+      "size": 92,
+      "topTerms": [
+        "video_essay_media",
+        "video_essay_media video_essay_media",
+        "film",
+        "culture",
+        "analysis",
+        "art",
+        "essay",
+        "history",
+        "movies",
+        "media",
+        "anime",
+        "essays",
+        "review",
+        "series",
+        "movie"
+      ],
+      "medianSubs": 292500,
+      "domains": [
+        [
+          "video_essay_media",
+          92
+        ]
+      ],
+      "examples": [
+        "Nerdwriter1",
+        "Every Frame a Painting",
+        "Defunctland",
+        "hbomberguy",
+        "Super Eyepatch Wolf",
+        "History Buffs",
+        "Bright Sun Films",
+        "Good Work"
+      ]
+    },
+    {
+      "cluster": 2,
+      "size": 40,
+      "topTerms": [
+        "music",
+        "music music",
+        "face",
+        "com music",
+        "com",
+        "sound",
+        "music theory",
+        "game",
+        "analysis",
+        "artist",
+        "paul",
+        "theory",
+        "commentary",
+        "composer",
+        "merchandise"
+      ],
+      "medianSubs": 208000,
+      "domains": [
+        [
+          "music",
+          40
+        ]
+      ],
+      "examples": [
+        "Lorde",
+        "SethEverman",
+        "NardwuarServiette",
+        "alyankovic",
+        "Smooth McGroove",
+        "Nice Peter",
+        "Mattias Krantz",
+        "Adam Neely"
+      ]
+    },
+    {
+      "cluster": 3,
+      "size": 70,
+      "topTerms": [
+        "comedy_sketch",
+        "comedy_sketch comedy_sketch",
+        "comedy",
+        "actor",
+        "anime",
+        "funny",
+        "internet",
+        "com",
+        "making",
+        "tomska",
+        "box",
+        "animation",
+        "zefrank",
+        "game",
+        "ll"
+      ],
+      "medianSubs": 136000,
+      "domains": [
+        [
+          "comedy_sketch",
+          70
+        ]
+      ],
+      "examples": [
+        "Dropout",
+        "RocketJump",
+        "Bad Lip Reading",
+        "TomSka",
+        "RDCworld1",
+        "bill wurtz",
+        "TeamFourStar",
+        "Ze Frank"
+      ]
+    },
+    {
+      "cluster": 4,
+      "size": 25,
+      "topTerms": [
+        "general_education",
+        "general_education general_education",
+        "green",
+        "education",
+        "technology",
+        "cgp",
+        "john green",
+        "green general_education",
+        "john",
+        "cgpgrey",
+        "hank",
+        "world",
+        "cgp grey",
+        "grey",
+        "books"
+      ],
+      "medianSubs": 515000,
+      "domains": [
+        [
+          "general_education",
+          25
+        ]
+      ],
+      "examples": [
+        "CrashCourse",
+        "CGP Grey",
+        "Tom Scott",
+        "Wendover Productions",
+        "vlogbrothers",
+        "Hank Green",
+        "Technology Connections",
+        "exurb1a"
+      ]
+    },
+    {
+      "cluster": 5,
+      "size": 53,
+      "topTerms": [
+        "gaming",
+        "gaming gaming",
+        "games",
+        "game",
+        "games gaming",
+        "review",
+        "anime",
+        "austin",
+        "puzzle",
+        "rainbolt",
+        "reviews",
+        "things",
+        "plays",
+        "gameplay",
+        "waypoint"
+      ],
+      "medianSubs": 71900,
+      "domains": [
+        [
+          "gaming",
+          53
+        ]
+      ],
+      "examples": [
+        "RAINBOLT TWO",
+        "Iron Pineapple",
+        "Digital Foundry",
+        "Any Austin",
+        "Polygon",
+        "RAINBOLT",
+        "/noclip",
+        "Subnautica"
+      ]
+    },
+    {
+      "cluster": 6,
+      "size": 14,
+      "topTerms": [
+        "math",
+        "math math",
+        "mathematics",
+        "maths",
+        "quite",
+        "math mathematics",
+        "mathematics math",
+        "sanderson",
+        "3blue1brown",
+        "grant sanderson",
+        "think",
+        "grant",
+        "numberphile",
+        "labs",
+        "vihart"
+      ],
+      "medianSubs": 267000,
+      "domains": [
+        [
+          "math",
+          14
+        ]
+      ],
+      "examples": [
+        "3Blue1Brown",
+        "Numberphile",
+        "Stand-up Maths",
+        "Mathologer",
+        "Welch Labs",
+        "PBS Infinite Series",
+        "Numberphile2",
+        "singingbanana"
+      ]
+    },
+    {
+      "cluster": 7,
+      "size": 15,
+      "topTerms": [
+        "podcast_actualplay",
+        "podcast_actualplay podcast_actualplay",
+        "mcelroy",
+        "mcelroy podcast_actualplay",
+        "podcast",
+        "table",
+        "friends",
+        "night",
+        "rpg",
+        "leon",
+        "crit",
+        "podcasts",
+        "griffin",
+        "family",
+        "let"
+      ],
+      "medianSubs": 18200,
+      "domains": [
+        [
+          "podcast_actualplay",
+          15
+        ]
+      ],
+      "examples": [
+        "Dimension 20",
+        "The McElroy Family",
+        "Welcome to Night Vale",
+        "Hello Internet",
+        "Will Save Productions",
+        "Justin McElroy",
+        "Let's Talk About Stuff",
+        "Griffin McElroy"
+      ]
+    },
+    {
+      "cluster": 8,
+      "size": 12,
+      "topTerms": [
+        "nature_bio",
+        "nature_bio nature_bio",
+        "wrestling_sports",
+        "wrestling_sports wrestling_sports",
+        "animals",
+        "journey",
+        "life",
+        "animal",
+        "emily",
+        "pbs",
+        "hosts",
+        "evolution",
+        "natural",
+        "history",
+        "nature"
+      ],
+      "medianSubs": 458000,
+      "domains": [
+        [
+          "nature_bio",
+          10
+        ],
+        [
+          "wrestling_sports",
+          2
+        ]
+      ],
+      "examples": [
+        "PBS Eons",
+        "Animalogic",
+        "Secret Base",
+        "Journey to the Microcosmos",
+        "thebrainscoop",
+        "Crime Pays But Botany Doesn't",
+        "Bizarre Beasts",
+        "Animal Wire"
+      ]
+    },
+    {
+      "cluster": 9,
+      "size": 61,
+      "topTerms": [
+        "science",
+        "science science",
+        "physics",
+        "chemistry",
+        "education",
+        "space",
+        "world",
+        "astronomy",
+        "psychology",
+        "learning",
+        "engineering",
+        "experiments",
+        "time",
+        "chemistry science",
+        "universe"
+      ],
+      "medianSubs": 622000,
+      "domains": [
+        [
+          "science",
+          60
+        ],
+        [
+          "gaming",
+          1
+        ]
+      ],
+      "examples": [
+        "Kurzgesagt – In a Nutshell",
+        "Vsauce",
+        "The Slow Mo Guys",
+        "SmarterEveryDay",
+        "NileRed",
+        "SciShow",
+        "minutephysics",
+        "Chubbyemu"
+      ]
+    },
+    {
+      "cluster": 10,
+      "size": 13,
+      "topTerms": [
+        "unknown",
+        "unknown unknown",
+        "food",
+        "food food",
+        "recipes",
+        "eat",
+        "cook",
+        "cooking",
+        "brother",
+        "join",
+        "jake",
+        "connect",
+        "cg",
+        "apologies",
+        "apologies advance"
+      ],
+      "medianSubs": 55250,
+      "domains": [
+        [
+          "unknown",
+          7
+        ],
+        [
+          "food",
+          6
+        ]
+      ],
+      "examples": [
+        "J. Kenji López-Alt",
+        "UpIsNotJump",
+        "MinuteFood",
+        "H.BurgerGuy",
+        "Lines That Connect",
+        "Philomatics",
+        "Amy & Jacky",
+        "BradyStuff"
+      ]
+    },
+    {
+      "cluster": 11,
+      "size": 28,
+      "topTerms": [
+        "politics_society",
+        "politics_society politics_society",
+        "philosophy",
+        "contrapoints",
+        "politics",
+        "come",
+        "media",
+        "social",
+        "people",
+        "black",
+        "feminism",
+        "contrapoints contrapoints",
+        "games",
+        "anarchism",
+        "history"
+      ],
+      "medianSubs": 126500,
+      "domains": [
+        [
+          "politics_society",
+          28
+        ]
+      ],
+      "examples": [
+        "ContraPoints",
+        "Philosophy Tube",
+        "F.D Signifier",
+        "Adam Conover",
+        "Shaun",
+        "Kat Blaque",
+        "Innuendo Studios",
+        "T1J"
+      ]
+    },
+    {
+      "cluster": 12,
+      "size": 21,
+      "topTerms": [
+        "game_design_analysis",
+        "game_design_analysis game_design_analysis",
+        "games",
+        "game",
+        "design",
+        "button",
+        "gaming",
+        "reviews",
+        "action button",
+        "analysis",
+        "action",
+        "game design",
+        "depth",
+        "games game_design_analysis",
+        "game analysis"
+      ],
+      "medianSubs": 313000,
+      "domains": [
+        [
+          "game_design_analysis",
+          21
+        ]
+      ],
+      "examples": [
+        "NakeyJakey",
+        "Ahoy",
+        "Game Maker's Toolkit",
+        "Joseph Anderson",
+        "Daryl Talks Games",
+        "People Make Games",
+        "Core-A Gaming",
+        "Super Bunnyhop"
+      ]
+    },
+    {
+      "cluster": 13,
+      "size": 35,
+      "topTerms": [
+        "animation",
+        "animation animation",
+        "make",
+        "cartoon",
+        "anime",
+        "funny",
+        "games",
+        "animations",
+        "cartoons",
+        "animator",
+        "puppet",
+        "game",
+        "dragon",
+        "film",
+        "alex"
+      ],
+      "medianSubs": 61000,
+      "domains": [
+        [
+          "animation",
+          35
+        ]
+      ],
+      "examples": [
+        "Zach King",
+        "TerminalMontage",
+        "Egoraptor",
+        "OneyNG",
+        "JelloApocalypse",
+        "Noodle",
+        "IanHubert",
+        "Mattias Pilhede"
+      ]
+    },
+    {
+      "cluster": 14,
+      "size": 19,
+      "topTerms": [
+        "speedrun_glitch",
+        "speedrun_glitch speedrun_glitch",
+        "mario",
+        "speedrun",
+        "64",
+        "mario 64",
+        "speedrunning",
+        "record",
+        "world record",
+        "super mario",
+        "super",
+        "glitches",
+        "bloodborne",
+        "speed",
+        "wii"
+      ],
+      "medianSubs": 243000,
+      "domains": [
+        [
+          "speedrun_glitch",
+          19
+        ]
+      ],
+      "examples": [
+        "Summoning Salt",
+        "Boundary Break",
+        "Zullie the Witch",
+        "Gamechamp3000",
+        "Linkus7",
+        "pannenkoek2012",
+        "EZScape",
+        "Kaze Emanuar"
+      ]
+    },
+    {
+      "cluster": 15,
+      "size": 30,
+      "topTerms": [
+        "engineering_making",
+        "engineering_making engineering_making",
+        "engineering",
+        "diy",
+        "engineer",
+        "design",
+        "making",
+        "things",
+        "world",
+        "like",
+        "maker",
+        "electronics",
+        "robot",
+        "science",
+        "inventions"
+      ],
+      "medianSubs": 1315000,
+      "domains": [
+        [
+          "engineering_making",
+          30
+        ]
+      ],
+      "examples": [
+        "Mark Rober",
+        "colinfurze",
+        "ElectroBOOM",
+        "I did a thing",
+        "DIY Perks",
+        "Practical Engineering",
+        "Stuff Made Here",
+        "LockPickingLawyer"
+      ]
+    },
+    {
+      "cluster": 16,
+      "size": 6,
+      "topTerms": [
+        "urbanism_transit",
+        "urbanism_transit urbanism_transit",
+        "cities",
+        "urban",
+        "planning",
+        "urban planning",
+        "transit",
+        "practice",
+        "transport",
+        "just",
+        "subscribers",
+        "ai",
+        "000",
+        "stories",
+        "free"
+      ],
+      "medianSubs": 51550,
+      "domains": [
+        [
+          "urbanism_transit",
+          6
+        ]
+      ],
+      "examples": [
+        "Not Just Bikes",
+        "Reject Convenience",
+        "donoteat01",
+        "Car Free Keith",
+        "Heartland Urbanist",
+        "new practice"
+      ]
+    },
+    {
+      "cluster": 17,
+      "size": 9,
+      "topTerms": [
+        "vlog_personality",
+        "vlog_personality vlog_personality",
+        "emily",
+        "jenny",
+        "hannah",
+        "unedited",
+        "iphone",
+        "cookies",
+        "upload",
+        "essay",
+        "electronic",
+        "rock",
+        "harry potter",
+        "potter",
+        "harry"
+      ],
+      "medianSubs": 14400,
+      "domains": [
+        [
+          "vlog_personality",
+          9
+        ]
+      ],
+      "examples": [
+        "WheezyWaiter",
+        "yourharto",
+        "The Cooler Jenny",
+        "AlwaysWheezy",
+        "DoeEyes",
+        "Isahowdy",
+        "Emily K Sowers",
+        "AZFanFam"
+      ]
+    },
+    {
+      "cluster": 18,
+      "size": 63,
+      "topTerms": [
+        "programming_tech",
+        "programming_tech programming_tech",
+        "programming",
+        "software",
+        "computer",
+        "coding",
+        "development",
+        "tech",
+        "tutorials",
+        "code",
+        "game",
+        "computer science",
+        "hardware",
+        "engineering",
+        "net"
+      ],
+      "medianSubs": 224000,
+      "domains": [
+        [
+          "programming_tech",
+          63
+        ]
+      ],
+      "examples": [
+        "Marques Brownlee",
+        "Fireship",
+        "Computerphile",
+        "Gamers Nexus",
+        "DankPods",
+        "sentdex",
+        "Sebastian Lague",
+        "MrMobile [Michael Fisher]"
+      ]
+    }
+  ]
+}
