@@ -1,5 +1,12 @@
 # Watch History × Subscriptions: Cross-Analysis
 
+> **Superseded by [WATCH_REPORT_V2.md](WATCH_REPORT_V2.md).** Ground-truth
+> feedback revealed that the overnight watching here is a TV sleep timer
+> left running (autoplay), and the recent non-subscribed growth is largely a
+> second household viewer. Finding 2 (sleep-aid volume) and Finding 5
+> (algorithmic drift) are substantially artifacts; v2 re-runs everything
+> with autoplay tails removed.
+
 Correlates 7.2 years of watch history (Google Takeout, May 2019 → July 2026:
 **31,547 watch events**, 30,977 attributable to a channel, across **4,675
 distinct channels**) against the 629-channel subscription analysis in
