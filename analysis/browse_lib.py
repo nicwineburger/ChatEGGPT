@@ -22,6 +22,12 @@ def _walk(o, lockups, conts):
     if isinstance(o, dict):
         if "lockupViewModel" in o:
             lockups.append(o["lockupViewModel"])
+        if "shortsLockupViewModel" in o and isinstance(o["shortsLockupViewModel"], dict):
+            sl = o["shortsLockupViewModel"]
+            vid = (sl.get("onTap", {}).get("innertubeCommand", {})
+                   .get("reelWatchEndpoint", {}).get("videoId")) or sl.get("entityId", "")[-11:]
+            if vid:
+                lockups.append({"contentId": vid})  # no duration badge on shorts
         if "continuationCommand" in o and isinstance(o["continuationCommand"], dict):
             tok = o["continuationCommand"].get("token")
             if tok:
@@ -47,33 +53,41 @@ def _badge_time(lockup):
     w(lockup.get("contentImage", {}))
     return found[0] if found else None
 
+TAB_VIDEOS = "EgZ2aWRlb3PyBgQKAjoA"
+TAB_LIVE = "EgdzdHJlYW1z8gYECgJ6AA%3D%3D"
+TAB_SHORTS = "EgZzaG9ydHPyBgUKA5oBAA%3D%3D"
+
 def parse_page(resp):
+    """Return ({videoId: seconds}, {videoId with no duration badge}, cont)."""
     lockups, conts = [], []
     _walk(resp, lockups, conts)
-    out = {}
+    out, unbadged = {}, set()
     for l in lockups:
         vid = l.get("contentId")
+        if not vid:
+            continue
         t = _badge_time(l)
-        if vid and t:
+        if t:
             out[vid] = _to_secs(t)
-    return out, (conts[0] if conts else None)
+        else:
+            unbadged.add(vid)
+    return out, unbadged, (conts[0] if conts else None)
 
-def channel_videos(channel_id, max_pages=5, stop_ids=None):
-    """Return {videoId: seconds} from a channel's videos tab.
+def channel_videos(channel_id, max_pages=5, stop_ids=None, params=TAB_VIDEOS):
+    """Return ({videoId: seconds}, {unbadged videoIds}) from a channel tab.
     Stops early once all stop_ids are found (if given)."""
-    vids = {}
-    resp = _post({"context": CTX, "browseId": channel_id,
-                  "params": "EgZ2aWRlb3PyBgQKAjoA"})
-    page, cont = parse_page(resp)
-    vids.update(page)
+    vids, unb = {}, set()
+    resp = _post({"context": CTX, "browseId": channel_id, "params": params})
+    page, u, cont = parse_page(resp)
+    vids.update(page); unb |= u
     pages = 1
     while cont and pages < max_pages:
-        if stop_ids and stop_ids <= set(vids):
+        if stop_ids and stop_ids <= (set(vids) | unb):
             break
-        if not page:  # empty page, don't loop
+        if not page and not u:  # empty page, don't loop
             break
         resp = _post({"context": CTX, "continuation": cont})
-        page, cont = parse_page(resp)
-        vids.update(page)
+        page, u, cont = parse_page(resp)
+        vids.update(page); unb |= u
         pages += 1
-    return vids
+    return vids, unb

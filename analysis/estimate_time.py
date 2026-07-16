@@ -18,15 +18,22 @@ for l in open("durations.jsonl"):
         durs[d["videoId"]] = d["seconds"]
 # durations scraped from channel video listings; also per-channel library medians
 lib_med = {}
-try:
-    for l in open("channel_durations.jsonl"):
-        d = json.loads(l)
-        for v, s in d["videos"].items():
-            durs.setdefault(v, s)
-        if d["videos"]:
-            lib_med[d["channelId"]] = statistics.median(d["videos"].values())
-except FileNotFoundError:
-    pass
+lib_pool = defaultdict(list)
+shorts = set()
+for fname in ("channel_durations.jsonl", "missing_durations.jsonl"):
+    try:
+        for l in open(fname):
+            d = json.loads(l)
+            for v, s in d["videos"].items():
+                durs.setdefault(v, s)
+                lib_pool[d["channelId"]].append(s)
+            shorts.update(d.get("shorts", []))
+    except FileNotFoundError:
+        pass
+for c, pool in lib_pool.items():
+    lib_med[c] = statistics.median(pool)
+for v in shorts:
+    durs.setdefault(v, 60)  # shorts: <=60s, no badge on shorts tab
 subs = list(csv.DictReader(open("channels_enriched.csv")))
 by_id = {r["channelId"]: r for r in subs}
 
@@ -50,7 +57,11 @@ for r in watch:
         d = ch_med.get(r["channelId"]) or lib_med.get(r["channelId"]) or glob_med
     r["dur"] = d
 n_exact = len(watch) - n_missing
-print(f"exact durations: {n_exact}/{len(watch)} events ({100*n_exact/len(watch):.0f}%)")
+n_shorts = sum(1 for r in watch if r["videoId"] in shorts)
+n_orphan = sum(1 for r in watch if r["videoId"] not in durs and not r["channelId"])
+print(f"exact durations: {n_exact}/{len(watch)} events ({100*n_exact/len(watch):.1f}%) "
+      f"[of which shorts@60s: {n_shorts}]; imputed: {n_missing} "
+      f"(deleted-video events, unrecoverable: {n_orphan})")
 
 GAP_MIN, TERMINAL_CAP, SLEEP_CAP = 45, 45 * 60, 15 * 60
 SLEEP_START, SLEEP_END = dtime(23, 30), dtime(7, 0)

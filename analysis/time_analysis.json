@@ -1,28 +1,28 @@
 {
-  "engagedHours": 4218,
-  "sleepOnsetHours": 805,
-  "minPerDay": 96.8,
+  "engagedHours": 4351,
+  "sleepOnsetHours": 794,
+  "minPerDay": 99.9,
   "hoursByYear": {
-    "2019": 423,
-    "2020": 552,
-    "2021": 543,
-    "2022": 560,
-    "2023": 565,
-    "2024": 516,
-    "2025": 708,
-    "2026": 350
+    "2019": 425,
+    "2020": 544,
+    "2021": 545,
+    "2022": 587,
+    "2023": 601,
+    "2024": 556,
+    "2025": 737,
+    "2026": 356
   },
   "topChannelsByHours": [
     {
       "name": "Chris Remo",
-      "hours": 202.2,
+      "hours": 277.8,
       "watches": 684,
       "countRank": 2,
       "subscribed": true
     },
     {
       "name": "Tom Scott",
-      "hours": 128.0,
+      "hours": 127.1,
       "watches": 1380,
       "countRank": 1,
       "subscribed": true
@@ -36,23 +36,16 @@
     },
     {
       "name": "Marques Brownlee",
-      "hours": 86.2,
+      "hours": 85.6,
       "watches": 452,
       "countRank": 5,
       "subscribed": true
     },
     {
       "name": "hbomberguy",
-      "hours": 85.9,
+      "hours": 84.1,
       "watches": 154,
       "countRank": 22,
-      "subscribed": true
-    },
-    {
-      "name": "Secret Base",
-      "hours": 82.0,
-      "watches": 159,
-      "countRank": 19,
       "subscribed": true
     },
     {
@@ -63,8 +56,15 @@
       "subscribed": true
     },
     {
+      "name": "Secret Base",
+      "hours": 77.4,
+      "watches": 159,
+      "countRank": 19,
+      "subscribed": true
+    },
+    {
       "name": "Folding Ideas",
-      "hours": 75.4,
+      "hours": 75.3,
       "watches": 174,
       "countRank": 17,
       "subscribed": true
@@ -78,7 +78,7 @@
     },
     {
       "name": "Captain Disillusion",
-      "hours": 53.9,
+      "hours": 53.7,
       "watches": 419,
       "countRank": 6,
       "subscribed": true
@@ -92,7 +92,7 @@
     },
     {
       "name": "vlogbrothers",
-      "hours": 50.0,
+      "hours": 50.5,
       "watches": 620,
       "countRank": 3,
       "subscribed": true
@@ -113,7 +113,7 @@
     },
     {
       "name": "Digital Foundry",
-      "hours": 46.8,
+      "hours": 46.2,
       "watches": 157,
       "countRank": 20,
       "subscribed": true
@@ -134,7 +134,7 @@
     },
     {
       "name": "Action Button",
-      "hours": 39.6,
+      "hours": 39.1,
       "watches": 65,
       "countRank": 49,
       "subscribed": true
@@ -147,13 +147,6 @@
       "subscribed": true
     },
     {
-      "name": "Hank Green",
-      "hours": 32.8,
-      "watches": 157,
-      "countRank": 21,
-      "subscribed": true
-    },
-    {
       "name": "Weird History Food",
       "hours": 32.1,
       "watches": 152,
@@ -161,22 +154,22 @@
       "subscribed": false
     },
     {
+      "name": "Hank Green",
+      "hours": 31.7,
+      "watches": 157,
+      "countRank": 21,
+      "subscribed": true
+    },
+    {
       "name": "Fireship",
-      "hours": 30.6,
+      "hours": 30.4,
       "watches": 386,
       "countRank": 7,
       "subscribed": true
     },
     {
-      "name": "RedLetterMedia",
-      "hours": 29.3,
-      "watches": 61,
-      "countRank": 53,
-      "subscribed": true
-    },
-    {
       "name": "Kurzgesagt – In a Nutshell",
-      "hours": 29.1,
+      "hours": 28.9,
       "watches": 178,
       "countRank": 14,
       "subscribed": true
@@ -196,18 +189,18 @@
       "subscribed": true
     },
     {
-      "name": "Chapo Trap House",
-      "hours": 27.9,
-      "watches": 47,
-      "countRank": 68,
-      "subscribed": false
-    },
-    {
       "name": "Tasting History with Max Miller",
       "hours": 27.6,
       "watches": 94,
       "countRank": 32,
       "subscribed": false
+    },
+    {
+      "name": "RedLetterMedia",
+      "hours": 27.6,
+      "watches": 61,
+      "countRank": 53,
+      "subscribed": true
     },
     {
       "name": "Veritasium",
@@ -217,6 +210,20 @@
       "subscribed": false
     },
     {
+      "name": "ProZD",
+      "hours": 26.9,
+      "watches": 492,
+      "countRank": 4,
+      "subscribed": true
+    },
+    {
+      "name": "Game Maker's Toolkit",
+      "hours": 26.1,
+      "watches": 114,
+      "countRank": 28,
+      "subscribed": true
+    },
+    {
       "name": "Super Eyepatch Wolf",
       "hours": 25.9,
       "watches": 67,
@@ -224,15 +231,15 @@
       "subscribed": true
     },
     {
-      "name": "Game Maker's Toolkit",
-      "hours": 24.3,
-      "watches": 114,
-      "countRank": 28,
-      "subscribed": true
+      "name": "Chapo Trap House",
+      "hours": 25.6,
+      "watches": 47,
+      "countRank": 68,
+      "subscribed": false
     },
     {
       "name": "Vox",
-      "hours": 24.2,
+      "hours": 24.5,
       "watches": 194,
       "countRank": 12,
       "subscribed": false
@@ -245,17 +252,24 @@
       "subscribed": true
     },
     {
-      "name": "Gamers Nexus",
-      "hours": 22.7,
-      "watches": 43,
-      "countRank": 76,
-      "subscribed": true
+      "name": "Kotaku",
+      "hours": 22.4,
+      "watches": 90,
+      "countRank": 35,
+      "subscribed": false
     },
     {
-      "name": "PlayStation",
+      "name": "Nintendo of America",
+      "hours": 21.9,
+      "watches": 134,
+      "countRank": 24,
+      "subscribed": false
+    },
+    {
+      "name": "IGN",
       "hours": 21.8,
-      "watches": 116,
-      "countRank": 27,
+      "watches": 245,
+      "countRank": 11,
       "subscribed": false
     },
     {
@@ -278,44 +292,30 @@
       "watches": 58,
       "countRank": 58,
       "subscribed": true
-    },
-    {
-      "name": "NileRed",
-      "hours": 19.4,
-      "watches": 44,
-      "countRank": 75,
-      "subscribed": true
-    },
-    {
-      "name": "Bismuth",
-      "hours": 18.6,
-      "watches": 39,
-      "countRank": 89,
-      "subscribed": true
     }
   ],
   "domainHoursShare": {
-    "general_education": 16.99,
-    "video_essay_media": 16.78,
-    "programming_tech": 11.94,
-    "gaming": 10.9,
-    "game_design_analysis": 7.82,
-    "science": 7.6,
-    "retro_tech": 4.39,
-    "comedy_sketch": 3.85,
-    "engineering_making": 3.74,
-    "podcast_actualplay": 3.17,
-    "wrestling_sports": 3.0,
-    "speedrun_glitch": 2.57,
-    "politics_society": 2.35,
-    "music": 1.27,
-    "animation": 1.1,
-    "nature_bio": 0.92,
-    "math": 0.73,
-    "food": 0.49,
+    "general_education": 16.42,
+    "video_essay_media": 16.34,
+    "gaming": 13.07,
+    "programming_tech": 11.57,
+    "game_design_analysis": 7.61,
+    "science": 7.22,
+    "comedy_sketch": 4.21,
+    "retro_tech": 4.08,
+    "engineering_making": 3.63,
+    "podcast_actualplay": 3.26,
+    "wrestling_sports": 2.74,
+    "speedrun_glitch": 2.43,
+    "politics_society": 2.42,
+    "music": 1.24,
+    "animation": 1.11,
+    "math": 0.91,
+    "nature_bio": 0.87,
+    "food": 0.48,
     "urbanism_transit": 0.27,
-    "vlog_personality": 0.09,
+    "vlog_personality": 0.08,
     "unknown": 0.04
   },
-  "subscribedShareOfHours": 70.4
+  "subscribedShareOfHours": 70.3
 }
