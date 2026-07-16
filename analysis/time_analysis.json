@@ -1,0 +1,321 @@
+{
+  "engagedHours": 4218,
+  "sleepOnsetHours": 805,
+  "minPerDay": 96.8,
+  "hoursByYear": {
+    "2019": 423,
+    "2020": 552,
+    "2021": 543,
+    "2022": 560,
+    "2023": 565,
+    "2024": 516,
+    "2025": 708,
+    "2026": 350
+  },
+  "topChannelsByHours": [
+    {
+      "name": "Chris Remo",
+      "hours": 202.2,
+      "watches": 684,
+      "countRank": 2,
+      "subscribed": true
+    },
+    {
+      "name": "Tom Scott",
+      "hours": 128.0,
+      "watches": 1380,
+      "countRank": 1,
+      "subscribed": true
+    },
+    {
+      "name": "Technology Connections",
+      "hours": 99.3,
+      "watches": 279,
+      "countRank": 9,
+      "subscribed": true
+    },
+    {
+      "name": "Marques Brownlee",
+      "hours": 86.2,
+      "watches": 452,
+      "countRank": 5,
+      "subscribed": true
+    },
+    {
+      "name": "hbomberguy",
+      "hours": 85.9,
+      "watches": 154,
+      "countRank": 22,
+      "subscribed": true
+    },
+    {
+      "name": "Secret Base",
+      "hours": 82.0,
+      "watches": 159,
+      "countRank": 19,
+      "subscribed": true
+    },
+    {
+      "name": "Noah Caldwell-Gervais",
+      "hours": 80.0,
+      "watches": 130,
+      "countRank": 25,
+      "subscribed": true
+    },
+    {
+      "name": "Folding Ideas",
+      "hours": 75.4,
+      "watches": 174,
+      "countRank": 17,
+      "subscribed": true
+    },
+    {
+      "name": "A More Civilized Age: A Star Wars Podcast",
+      "hours": 54.4,
+      "watches": 89,
+      "countRank": 38,
+      "subscribed": true
+    },
+    {
+      "name": "Captain Disillusion",
+      "hours": 53.9,
+      "watches": 419,
+      "countRank": 6,
+      "subscribed": true
+    },
+    {
+      "name": "Cathode Ray Dude - CRD",
+      "hours": 52.0,
+      "watches": 90,
+      "countRank": 37,
+      "subscribed": true
+    },
+    {
+      "name": "vlogbrothers",
+      "hours": 50.0,
+      "watches": 620,
+      "countRank": 3,
+      "subscribed": true
+    },
+    {
+      "name": "Jenny Nicholson",
+      "hours": 48.3,
+      "watches": 103,
+      "countRank": 30,
+      "subscribed": true
+    },
+    {
+      "name": "Wendover Productions",
+      "hours": 46.9,
+      "watches": 162,
+      "countRank": 18,
+      "subscribed": true
+    },
+    {
+      "name": "Digital Foundry",
+      "hours": 46.8,
+      "watches": 157,
+      "countRank": 20,
+      "subscribed": true
+    },
+    {
+      "name": "MrMobile [Michael Fisher]",
+      "hours": 43.7,
+      "watches": 255,
+      "countRank": 10,
+      "subscribed": true
+    },
+    {
+      "name": "Defunctland",
+      "hours": 43.0,
+      "watches": 103,
+      "countRank": 29,
+      "subscribed": true
+    },
+    {
+      "name": "Action Button",
+      "hours": 39.6,
+      "watches": 65,
+      "countRank": 49,
+      "subscribed": true
+    },
+    {
+      "name": "CGP Grey",
+      "hours": 36.4,
+      "watches": 340,
+      "countRank": 8,
+      "subscribed": true
+    },
+    {
+      "name": "Hank Green",
+      "hours": 32.8,
+      "watches": 157,
+      "countRank": 21,
+      "subscribed": true
+    },
+    {
+      "name": "Weird History Food",
+      "hours": 32.1,
+      "watches": 152,
+      "countRank": 23,
+      "subscribed": false
+    },
+    {
+      "name": "Fireship",
+      "hours": 30.6,
+      "watches": 386,
+      "countRank": 7,
+      "subscribed": true
+    },
+    {
+      "name": "RedLetterMedia",
+      "hours": 29.3,
+      "watches": 61,
+      "countRank": 53,
+      "subscribed": true
+    },
+    {
+      "name": "Kurzgesagt – In a Nutshell",
+      "hours": 29.1,
+      "watches": 178,
+      "countRank": 14,
+      "subscribed": true
+    },
+    {
+      "name": "Sebastian Lague",
+      "hours": 28.7,
+      "watches": 60,
+      "countRank": 55,
+      "subscribed": true
+    },
+    {
+      "name": "TeamFourStar",
+      "hours": 28.0,
+      "watches": 177,
+      "countRank": 15,
+      "subscribed": true
+    },
+    {
+      "name": "Chapo Trap House",
+      "hours": 27.9,
+      "watches": 47,
+      "countRank": 68,
+      "subscribed": false
+    },
+    {
+      "name": "Tasting History with Max Miller",
+      "hours": 27.6,
+      "watches": 94,
+      "countRank": 32,
+      "subscribed": false
+    },
+    {
+      "name": "Veritasium",
+      "hours": 27.4,
+      "watches": 93,
+      "countRank": 33,
+      "subscribed": false
+    },
+    {
+      "name": "Super Eyepatch Wolf",
+      "hours": 25.9,
+      "watches": 67,
+      "countRank": 44,
+      "subscribed": true
+    },
+    {
+      "name": "Game Maker's Toolkit",
+      "hours": 24.3,
+      "watches": 114,
+      "countRank": 28,
+      "subscribed": true
+    },
+    {
+      "name": "Vox",
+      "hours": 24.2,
+      "watches": 194,
+      "countRank": 12,
+      "subscribed": false
+    },
+    {
+      "name": "Dave's Garage",
+      "hours": 24.2,
+      "watches": 99,
+      "countRank": 31,
+      "subscribed": true
+    },
+    {
+      "name": "Gamers Nexus",
+      "hours": 22.7,
+      "watches": 43,
+      "countRank": 76,
+      "subscribed": true
+    },
+    {
+      "name": "PlayStation",
+      "hours": 21.8,
+      "watches": 116,
+      "countRank": 27,
+      "subscribed": false
+    },
+    {
+      "name": "Half as Interesting",
+      "hours": 21.3,
+      "watches": 193,
+      "countRank": 13,
+      "subscribed": true
+    },
+    {
+      "name": "Summoning Salt",
+      "hours": 20.2,
+      "watches": 36,
+      "countRank": 97,
+      "subscribed": true
+    },
+    {
+      "name": "FilmJoy",
+      "hours": 20.1,
+      "watches": 58,
+      "countRank": 58,
+      "subscribed": true
+    },
+    {
+      "name": "NileRed",
+      "hours": 19.4,
+      "watches": 44,
+      "countRank": 75,
+      "subscribed": true
+    },
+    {
+      "name": "Bismuth",
+      "hours": 18.6,
+      "watches": 39,
+      "countRank": 89,
+      "subscribed": true
+    }
+  ],
+  "domainHoursShare": {
+    "general_education": 16.99,
+    "video_essay_media": 16.78,
+    "programming_tech": 11.94,
+    "gaming": 10.9,
+    "game_design_analysis": 7.82,
+    "science": 7.6,
+    "retro_tech": 4.39,
+    "comedy_sketch": 3.85,
+    "engineering_making": 3.74,
+    "podcast_actualplay": 3.17,
+    "wrestling_sports": 3.0,
+    "speedrun_glitch": 2.57,
+    "politics_society": 2.35,
+    "music": 1.27,
+    "animation": 1.1,
+    "nature_bio": 0.92,
+    "math": 0.73,
+    "food": 0.49,
+    "urbanism_transit": 0.27,
+    "vlog_personality": 0.09,
+    "unknown": 0.04
+  },
+  "subscribedShareOfHours": 70.4
+}
