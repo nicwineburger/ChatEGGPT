@@ -1,0 +1,1325 @@
+{
+  "totals": {
+    "events": 31547,
+    "attributable": 30977,
+    "subscribedEvents": 20468,
+    "distinctChannels": 4675,
+    "dormantSubs": 138
+  },
+  "topSubscribed": [
+    {
+      "title": "Technology Connections",
+      "watches": 2412,
+      "domain": "general_education"
+    },
+    {
+      "title": "Tom Scott",
+      "watches": 1951,
+      "domain": "general_education"
+    },
+    {
+      "title": "Chris Remo",
+      "watches": 742,
+      "domain": "gaming"
+    },
+    {
+      "title": "vlogbrothers",
+      "watches": 704,
+      "domain": "general_education"
+    },
+    {
+      "title": "ProZD",
+      "watches": 615,
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Captain Disillusion",
+      "watches": 603,
+      "domain": "science"
+    },
+    {
+      "title": "Defunctland",
+      "watches": 548,
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Marques Brownlee",
+      "watches": 518,
+      "domain": "programming_tech"
+    },
+    {
+      "title": "CGP Grey",
+      "watches": 503,
+      "domain": "general_education"
+    },
+    {
+      "title": "Fireship",
+      "watches": 419,
+      "domain": "programming_tech"
+    },
+    {
+      "title": "Half as Interesting",
+      "watches": 339,
+      "domain": "general_education"
+    },
+    {
+      "title": "Folding Ideas",
+      "watches": 325,
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Secret Base",
+      "watches": 314,
+      "domain": "wrestling_sports"
+    },
+    {
+      "title": "MrMobile [Michael Fisher]",
+      "watches": 284,
+      "domain": "programming_tech"
+    },
+    {
+      "title": "Kurzgesagt – In a Nutshell",
+      "watches": 281,
+      "domain": "science"
+    },
+    {
+      "title": "hbomberguy",
+      "watches": 254,
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Cathode Ray Dude - CRD",
+      "watches": 240,
+      "domain": "retro_tech"
+    },
+    {
+      "title": "TeamFourStar",
+      "watches": 209,
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "MinuteEarth",
+      "watches": 197,
+      "domain": "science"
+    },
+    {
+      "title": "Wendover Productions",
+      "watches": 185,
+      "domain": "general_education"
+    },
+    {
+      "title": "Jenny Nicholson",
+      "watches": 176,
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Hank Green",
+      "watches": 174,
+      "domain": "general_education"
+    },
+    {
+      "title": "Digital Foundry",
+      "watches": 166,
+      "domain": "gaming"
+    },
+    {
+      "title": "Noah Caldwell-Gervais",
+      "watches": 165,
+      "domain": "game_design_analysis"
+    },
+    {
+      "title": "xkcd's What If?",
+      "watches": 154,
+      "domain": "general_education"
+    },
+    {
+      "title": "Stuff Made Here",
+      "watches": 140,
+      "domain": "engineering_making"
+    },
+    {
+      "title": "Dave's Garage",
+      "watches": 126,
+      "domain": "programming_tech"
+    },
+    {
+      "title": "Game Maker's Toolkit",
+      "watches": 124,
+      "domain": "game_design_analysis"
+    },
+    {
+      "title": "Journey to the Microcosmos",
+      "watches": 121,
+      "domain": "nature_bio"
+    },
+    {
+      "title": "minutephysics",
+      "watches": 110,
+      "domain": "science"
+    },
+    {
+      "title": "SciShow",
+      "watches": 107,
+      "domain": "science"
+    },
+    {
+      "title": "Steve Mould",
+      "watches": 106,
+      "domain": "science"
+    },
+    {
+      "title": "NileRed",
+      "watches": 106,
+      "domain": "science"
+    },
+    {
+      "title": "3Blue1Brown",
+      "watches": 106,
+      "domain": "math"
+    },
+    {
+      "title": "Polygon",
+      "watches": 104,
+      "domain": "gaming"
+    },
+    {
+      "title": "LockPickingLawyer",
+      "watches": 101,
+      "domain": "engineering_making"
+    },
+    {
+      "title": "Practical Engineering",
+      "watches": 98,
+      "domain": "engineering_making"
+    },
+    {
+      "title": "A More Civilized Age: A Star Wars Podcast",
+      "watches": 98,
+      "domain": "podcast_actualplay"
+    },
+    {
+      "title": "Internet Comment Etiquette with Erik",
+      "watches": 97,
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Sebastian Lague",
+      "watches": 93,
+      "domain": "programming_tech"
+    },
+    {
+      "title": "Animalogic",
+      "watches": 89,
+      "domain": "nature_bio"
+    },
+    {
+      "title": "Ze Frank",
+      "watches": 86,
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Action Button",
+      "watches": 83,
+      "domain": "game_design_analysis"
+    },
+    {
+      "title": "FilmJoy",
+      "watches": 82,
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Super Eyepatch Wolf",
+      "watches": 82,
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "IanHubert",
+      "watches": 82,
+      "domain": "animation"
+    },
+    {
+      "title": "RedLetterMedia",
+      "watches": 81,
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "The Slow Mo Guys",
+      "watches": 80,
+      "domain": "science"
+    },
+    {
+      "title": "Bright Sun Films",
+      "watches": 79,
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "HDTVTest",
+      "watches": 76,
+      "domain": "programming_tech"
+    }
+  ],
+  "topNonSubscribed": [
+    {
+      "name": "IGN",
+      "watches": 304
+    },
+    {
+      "name": "Vox",
+      "watches": 227
+    },
+    {
+      "name": "Weird History Food",
+      "watches": 168
+    },
+    {
+      "name": "Nintendo of America",
+      "watches": 140
+    },
+    {
+      "name": "Bob Ross",
+      "watches": 124
+    },
+    {
+      "name": "PlayStation",
+      "watches": 123
+    },
+    {
+      "name": "Veritasium",
+      "watches": 114
+    },
+    {
+      "name": "Tasting History with Max Miller",
+      "watches": 109
+    },
+    {
+      "name": "Netflix",
+      "watches": 100
+    },
+    {
+      "name": "The CW Network",
+      "watches": 96
+    },
+    {
+      "name": "Kotaku",
+      "watches": 94
+    },
+    {
+      "name": "videogamedunkey",
+      "watches": 91
+    },
+    {
+      "name": "Linus Tech Tips",
+      "watches": 67
+    },
+    {
+      "name": "Marvel Entertainment",
+      "watches": 63
+    },
+    {
+      "name": "WIRED",
+      "watches": 59
+    },
+    {
+      "name": "Warner Bros.",
+      "watches": 57
+    },
+    {
+      "name": "Chapo Trap House",
+      "watches": 56
+    },
+    {
+      "name": "Man Carrying Thing",
+      "watches": 54
+    },
+    {
+      "name": "Internet Historian",
+      "watches": 45
+    },
+    {
+      "name": "LastWeekTonight",
+      "watches": 42
+    },
+    {
+      "name": "Nic G",
+      "watches": 42
+    },
+    {
+      "name": "CGMatter",
+      "watches": 42
+    },
+    {
+      "name": "Adult Swim",
+      "watches": 41
+    },
+    {
+      "name": "Bernie Sanders",
+      "watches": 41
+    },
+    {
+      "name": "Binging with Babish",
+      "watches": 40
+    },
+    {
+      "name": "pwnisher",
+      "watches": 39
+    },
+    {
+      "name": "HBO Max",
+      "watches": 38
+    },
+    {
+      "name": "Crunchyroll",
+      "watches": 38
+    },
+    {
+      "name": "The Official Pokémon YouTube channel",
+      "watches": 36
+    },
+    {
+      "name": "Real Engineering",
+      "watches": 35
+    },
+    {
+      "name": "Andreas Vollenweider - Topic",
+      "watches": 35
+    },
+    {
+      "name": "Easy Allies",
+      "watches": 35
+    },
+    {
+      "name": "Games Done Quick",
+      "watches": 33
+    },
+    {
+      "name": "Odesza - Topic",
+      "watches": 33
+    },
+    {
+      "name": "Business Insider",
+      "watches": 32
+    },
+    {
+      "name": "Star Wars",
+      "watches": 32
+    },
+    {
+      "name": "jewtab",
+      "watches": 31
+    },
+    {
+      "name": "Paramount Pictures",
+      "watches": 30
+    },
+    {
+      "name": "YouTube Movies",
+      "watches": 29
+    },
+    {
+      "name": "Neil Diamond - Topic",
+      "watches": 29
+    },
+    {
+      "name": "Sabine Hossenfelder",
+      "watches": 29
+    },
+    {
+      "name": "Scary Interesting",
+      "watches": 28
+    },
+    {
+      "name": "Sony Pictures Entertainment",
+      "watches": 28
+    },
+    {
+      "name": "Austin John Plays",
+      "watches": 28
+    },
+    {
+      "name": "Two Minute Papers",
+      "watches": 27
+    },
+    {
+      "name": "Girl With The Dogs 2",
+      "watches": 26
+    },
+    {
+      "name": "A24",
+      "watches": 26
+    },
+    {
+      "name": "ExtinctZoo ",
+      "watches": 25
+    },
+    {
+      "name": "Epicurious",
+      "watches": 25
+    },
+    {
+      "name": "alyankovicVEVO",
+      "watches": 25
+    }
+  ],
+  "domainIndex": [
+    {
+      "domain": "general_education",
+      "subs": 25,
+      "watches": 6777,
+      "subsShare": 0.0397,
+      "watchShare": 0.3311,
+      "index": 8.331
+    },
+    {
+      "domain": "video_essay_media",
+      "subs": 92,
+      "watches": 2354,
+      "subsShare": 0.1463,
+      "watchShare": 0.115,
+      "index": 0.786
+    },
+    {
+      "domain": "programming_tech",
+      "subs": 63,
+      "watches": 2224,
+      "subsShare": 0.1002,
+      "watchShare": 0.1087,
+      "index": 1.085
+    },
+    {
+      "domain": "science",
+      "subs": 60,
+      "watches": 1972,
+      "subsShare": 0.0954,
+      "watchShare": 0.0963,
+      "index": 1.01
+    },
+    {
+      "domain": "comedy_sketch",
+      "subs": 70,
+      "watches": 1469,
+      "subsShare": 0.1113,
+      "watchShare": 0.0718,
+      "index": 0.645
+    },
+    {
+      "domain": "gaming",
+      "subs": 54,
+      "watches": 1335,
+      "subsShare": 0.0859,
+      "watchShare": 0.0652,
+      "index": 0.76
+    },
+    {
+      "domain": "engineering_making",
+      "subs": 30,
+      "watches": 802,
+      "subsShare": 0.0477,
+      "watchShare": 0.0392,
+      "index": 0.822
+    },
+    {
+      "domain": "game_design_analysis",
+      "subs": 21,
+      "watches": 684,
+      "subsShare": 0.0334,
+      "watchShare": 0.0334,
+      "index": 1.001
+    },
+    {
+      "domain": "retro_tech",
+      "subs": 23,
+      "watches": 595,
+      "subsShare": 0.0366,
+      "watchShare": 0.0291,
+      "index": 0.795
+    },
+    {
+      "domain": "wrestling_sports",
+      "subs": 2,
+      "watches": 351,
+      "subsShare": 0.0032,
+      "watchShare": 0.0171,
+      "index": 5.393
+    },
+    {
+      "domain": "animation",
+      "subs": 35,
+      "watches": 346,
+      "subsShare": 0.0556,
+      "watchShare": 0.0169,
+      "index": 0.304
+    },
+    {
+      "domain": "nature_bio",
+      "subs": 10,
+      "watches": 274,
+      "subsShare": 0.0159,
+      "watchShare": 0.0134,
+      "index": 0.842
+    },
+    {
+      "domain": "speedrun_glitch",
+      "subs": 19,
+      "watches": 258,
+      "subsShare": 0.0302,
+      "watchShare": 0.0126,
+      "index": 0.417
+    },
+    {
+      "domain": "politics_society",
+      "subs": 28,
+      "watches": 234,
+      "subsShare": 0.0445,
+      "watchShare": 0.0114,
+      "index": 0.257
+    },
+    {
+      "domain": "podcast_actualplay",
+      "subs": 15,
+      "watches": 218,
+      "subsShare": 0.0238,
+      "watchShare": 0.0107,
+      "index": 0.447
+    },
+    {
+      "domain": "music",
+      "subs": 40,
+      "watches": 193,
+      "subsShare": 0.0636,
+      "watchShare": 0.0094,
+      "index": 0.148
+    },
+    {
+      "domain": "math",
+      "subs": 14,
+      "watches": 167,
+      "subsShare": 0.0223,
+      "watchShare": 0.0082,
+      "index": 0.367
+    },
+    {
+      "domain": "food",
+      "subs": 6,
+      "watches": 124,
+      "subsShare": 0.0095,
+      "watchShare": 0.0061,
+      "index": 0.635
+    },
+    {
+      "domain": "vlog_personality",
+      "subs": 9,
+      "watches": 53,
+      "subsShare": 0.0143,
+      "watchShare": 0.0026,
+      "index": 0.181
+    },
+    {
+      "domain": "urbanism_transit",
+      "subs": 6,
+      "watches": 29,
+      "subsShare": 0.0095,
+      "watchShare": 0.0014,
+      "index": 0.149
+    },
+    {
+      "domain": "unknown",
+      "subs": 7,
+      "watches": 9,
+      "subsShare": 0.0111,
+      "watchShare": 0.0004,
+      "index": 0.04
+    }
+  ],
+  "dormant": [
+    {
+      "title": "ClassicGameJunkie",
+      "subscribers": "22600",
+      "domain": "retro_tech"
+    },
+    {
+      "title": "Barely Sociable",
+      "subscribers": "1380000",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Pop Culture Detective",
+      "subscribers": "1170000",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Now You See It",
+      "subscribers": "949000",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Marble Hornets",
+      "subscribers": "750000",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "PBS Idea Channel",
+      "subscribers": "749000",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "This is Dan Bell.",
+      "subscribers": "617000",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Peter Jackson",
+      "subscribers": "323000",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "The Pedantic Romantic",
+      "subscribers": "79200",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Ours Poetica",
+      "subscribers": "60300",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Vintage ChezLindsay",
+      "subscribers": "37000",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Soph's Notes",
+      "subscribers": "29200",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Beyond the Frame",
+      "subscribers": "22000",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "greysfavs",
+      "subscribers": "16900",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "docfuture1",
+      "subscribers": "14500",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "vidthoughts",
+      "subscribers": "10700",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "ehmteevee",
+      "subscribers": "10400",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Suede's Pokémon Journey",
+      "subscribers": "8180",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "ReviewCandy",
+      "subscribers": "3370",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "allthequestions",
+      "subscribers": "2040",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Kav P",
+      "subscribers": "1810",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "HumZillion",
+      "subscribers": "13",
+      "domain": "video_essay_media"
+    },
+    {
+      "title": "Lorde",
+      "subscribers": "5180000",
+      "domain": "music"
+    },
+    {
+      "title": "Nice Peter",
+      "subscribers": "2610000",
+      "domain": "music"
+    },
+    {
+      "title": "Garfunkel And Oates",
+      "subscribers": "550000",
+      "domain": "music"
+    },
+    {
+      "title": "Alex Moukala Music",
+      "subscribers": "437000",
+      "domain": "music"
+    },
+    {
+      "title": "The Sound Traveler",
+      "subscribers": "289000",
+      "domain": "music"
+    },
+    {
+      "title": "collectivecadenza",
+      "subscribers": "279000",
+      "domain": "music"
+    },
+    {
+      "title": "LowercaseJai",
+      "subscribers": "86400",
+      "domain": "music"
+    },
+    {
+      "title": "The Blanks Official YouTube Page",
+      "subscribers": "38700",
+      "domain": "music"
+    },
+    {
+      "title": "dftbarecords",
+      "subscribers": "28200",
+      "domain": "music"
+    },
+    {
+      "title": "James Howell",
+      "subscribers": "6960",
+      "domain": "music"
+    },
+    {
+      "title": "Shogo Sakai (NekoChill / 酒井省吾 )",
+      "subscribers": "3720",
+      "domain": "music"
+    },
+    {
+      "title": "Trace Five",
+      "subscribers": "1680",
+      "domain": "music"
+    },
+    {
+      "title": "dovsky",
+      "subscribers": "597",
+      "domain": "music"
+    },
+    {
+      "title": "Strangest Quiet",
+      "subscribers": "378",
+      "domain": "music"
+    },
+    {
+      "title": "ShadyVox",
+      "subscribers": "",
+      "domain": "music"
+    },
+    {
+      "title": "Bad Lip Reading",
+      "subscribers": "8080000",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Sailor J",
+      "subscribers": "464000",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Auralnauts",
+      "subscribers": "398000",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Glove and Boots",
+      "subscribers": "359000",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "meow",
+      "subscribers": "319000",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "charlieissoboredlike",
+      "subscribers": "302000",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "HAWPOfficial",
+      "subscribers": "283000",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "truthorfail",
+      "subscribers": "117000",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "HangoverUncensored",
+      "subscribers": "52500",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "zefrankenfriends",
+      "subscribers": "51600",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "GanXingba",
+      "subscribers": "40500",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "SPEED BOAT DOPE",
+      "subscribers": "24100",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "truthorfailnosub",
+      "subscribers": "17100",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "JeremyThunder",
+      "subscribers": "11800",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Emmy Blotnick",
+      "subscribers": "8540",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Plus2Joe",
+      "subscribers": "5690",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Ray Ramses",
+      "subscribers": "4560",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Olivia Griffin",
+      "subscribers": "3020",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "sweetDawg",
+      "subscribers": "1960",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Table 8 Productions",
+      "subscribers": "1900",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "The SUPERWRESTLERS!",
+      "subscribers": "1760",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Do You Validate",
+      "subscribers": "473",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Bitch Avenue",
+      "subscribers": "64",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Faulerro",
+      "subscribers": "",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "PurpleEyesWTF",
+      "subscribers": "",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "Little Kuriboh",
+      "subscribers": "",
+      "domain": "comedy_sketch"
+    },
+    {
+      "title": "How to Adult",
+      "subscribers": "329000",
+      "domain": "general_education"
+    },
+    {
+      "title": "The Good Stuff",
+      "subscribers": "243000",
+      "domain": "general_education"
+    },
+    {
+      "title": "CGP Play",
+      "subscribers": "35800",
+      "domain": "general_education"
+    },
+    {
+      "title": "mklachu",
+      "subscribers": "113000",
+      "domain": "gaming"
+    },
+    {
+      "title": "FLEB",
+      "subscribers": "112000",
+      "domain": "gaming"
+    },
+    {
+      "title": "GamesWithHank",
+      "subscribers": "69000",
+      "domain": "gaming"
+    },
+    {
+      "title": "Sean Seanson",
+      "subscribers": "52900",
+      "domain": "gaming"
+    },
+    {
+      "title": "Elite3 Backup Channel",
+      "subscribers": "11600",
+      "domain": "gaming"
+    },
+    {
+      "title": "Welch Labs",
+      "subscribers": "890000",
+      "domain": "math"
+    },
+    {
+      "title": "PBS Infinite Series",
+      "subscribers": "318000",
+      "domain": "math"
+    },
+    {
+      "title": "singingbanana",
+      "subscribers": "226000",
+      "domain": "math"
+    },
+    {
+      "title": "ele VR",
+      "subscribers": "1990",
+      "domain": "math"
+    },
+    {
+      "title": "Intellectual Mathematics",
+      "subscribers": "1710",
+      "domain": "math"
+    },
+    {
+      "title": "Vihart",
+      "subscribers": "",
+      "domain": "math"
+    },
+    {
+      "title": "Hello Internet",
+      "subscribers": "155000",
+      "domain": "podcast_actualplay"
+    },
+    {
+      "title": "Will Save Productions",
+      "subscribers": "96300",
+      "domain": "podcast_actualplay"
+    },
+    {
+      "title": "Let's Talk About Stuff",
+      "subscribers": "29700",
+      "domain": "podcast_actualplay"
+    },
+    {
+      "title": "Griffin McElroy",
+      "subscribers": "18200",
+      "domain": "podcast_actualplay"
+    },
+    {
+      "title": "Travis McElroy",
+      "subscribers": "2710",
+      "domain": "podcast_actualplay"
+    },
+    {
+      "title": "Brandon Leon-Gambetta",
+      "subscribers": "546",
+      "domain": "podcast_actualplay"
+    },
+    {
+      "title": "Animal Wire",
+      "subscribers": "340000",
+      "domain": "nature_bio"
+    },
+    {
+      "title": "Quirkology",
+      "subscribers": "2420000",
+      "domain": "science"
+    },
+    {
+      "title": "Greg and Mitch",
+      "subscribers": "762000",
+      "domain": "science"
+    },
+    {
+      "title": "BrainCraft",
+      "subscribers": "622000",
+      "domain": "science"
+    },
+    {
+      "title": "2veritasium",
+      "subscribers": "565000",
+      "domain": "science"
+    },
+    {
+      "title": "Tom Lum",
+      "subscribers": "347000",
+      "domain": "science"
+    },
+    {
+      "title": "Sciencium",
+      "subscribers": "322000",
+      "domain": "science"
+    },
+    {
+      "title": "yeti dynamics",
+      "subscribers": "313000",
+      "domain": "science"
+    },
+    {
+      "title": "DeepSkyVideos",
+      "subscribers": "251000",
+      "domain": "science"
+    },
+    {
+      "title": "potholer54",
+      "subscribers": "241000",
+      "domain": "science"
+    },
+    {
+      "title": "Frame of Essence",
+      "subscribers": "175000",
+      "domain": "science"
+    },
+    {
+      "title": "nottinghamscience",
+      "subscribers": "125000",
+      "domain": "science"
+    },
+    {
+      "title": "Clockwork",
+      "subscribers": "87500",
+      "domain": "gaming"
+    },
+    {
+      "title": "BackstageScience",
+      "subscribers": "64200",
+      "domain": "science"
+    },
+    {
+      "title": "psyfile",
+      "subscribers": "45100",
+      "domain": "science"
+    },
+    {
+      "title": "Mike Likes Science",
+      "subscribers": "37400",
+      "domain": "science"
+    },
+    {
+      "title": "Holy Fucking Science",
+      "subscribers": "14400",
+      "domain": "science"
+    },
+    {
+      "title": "fyfluiddynamics",
+      "subscribers": "12200",
+      "domain": "science"
+    },
+    {
+      "title": "PlayTheMind",
+      "subscribers": "11000",
+      "domain": "science"
+    },
+    {
+      "title": "Living Science",
+      "subscribers": "2300",
+      "domain": "science"
+    },
+    {
+      "title": "BlackHoleCam",
+      "subscribers": "964",
+      "domain": "science"
+    },
+    {
+      "title": "BradyStuff",
+      "subscribers": "28400",
+      "domain": "unknown"
+    },
+    {
+      "title": "GASTROFÍSICA",
+      "subscribers": "22300",
+      "domain": "food"
+    },
+    {
+      "title": "Brother Jake",
+      "subscribers": "19100",
+      "domain": "unknown"
+    },
+    {
+      "title": "Nader Makki",
+      "subscribers": "468",
+      "domain": "unknown"
+    },
+    {
+      "title": "Skull",
+      "subscribers": "",
+      "domain": "unknown"
+    },
+    {
+      "title": "Feminist Frequency",
+      "subscribers": "208000",
+      "domain": "politics_society"
+    },
+    {
+      "title": "Soliloquy",
+      "subscribers": "82700",
+      "domain": "politics_society"
+    },
+    {
+      "title": "Travis Gilbert",
+      "subscribers": "26300",
+      "domain": "politics_society"
+    },
+    {
+      "title": "Citations Needed",
+      "subscribers": "5140",
+      "domain": "politics_society"
+    },
+    {
+      "title": "the bread is rising",
+      "subscribers": "3460",
+      "domain": "politics_society"
+    },
+    {
+      "title": "Olivia L.",
+      "subscribers": "1300",
+      "domain": "politics_society"
+    },
+    {
+      "title": "Games As Literature",
+      "subscribers": "58200",
+      "domain": "game_design_analysis"
+    },
+    {
+      "title": "OneyNG",
+      "subscribers": "2510000",
+      "domain": "animation"
+    },
+    {
+      "title": "1Kids (Mike)",
+      "subscribers": "110000",
+      "domain": "animation"
+    },
+    {
+      "title": "Doctor Puppet",
+      "subscribers": "66900",
+      "domain": "animation"
+    },
+    {
+      "title": "FUNimationLive",
+      "subscribers": "7960",
+      "domain": "animation"
+    },
+    {
+      "title": "Silver Sprocket",
+      "subscribers": "7270",
+      "domain": "animation"
+    },
+    {
+      "title": "reichhen",
+      "subscribers": "7200",
+      "domain": "animation"
+    },
+    {
+      "title": "Pasta Cats",
+      "subscribers": "730",
+      "domain": "animation"
+    },
+    {
+      "title": "お兄ちゃんねる - OniiChannel",
+      "subscribers": "9",
+      "domain": "animation"
+    },
+    {
+      "title": "CosmoSpeedruns",
+      "subscribers": "75600",
+      "domain": "speedrun_glitch"
+    },
+    {
+      "title": "yourharto",
+      "subscribers": "272000",
+      "domain": "vlog_personality"
+    },
+    {
+      "title": "AlwaysWheezy",
+      "subscribers": "42500",
+      "domain": "vlog_personality"
+    },
+    {
+      "title": "DoeEyes",
+      "subscribers": "14400",
+      "domain": "vlog_personality"
+    },
+    {
+      "title": "Isahowdy",
+      "subscribers": "7250",
+      "domain": "vlog_personality"
+    },
+    {
+      "title": "AZFanFam",
+      "subscribers": "5130",
+      "domain": "vlog_personality"
+    },
+    {
+      "title": "Nikki",
+      "subscribers": "3140",
+      "domain": "vlog_personality"
+    },
+    {
+      "title": "Denis Shiryaev",
+      "subscribers": "564000",
+      "domain": "programming_tech"
+    },
+    {
+      "title": "samy kamkar",
+      "subscribers": "202000",
+      "domain": "programming_tech"
+    },
+    {
+      "title": "TheHappieCat",
+      "subscribers": "164000",
+      "domain": "programming_tech"
+    },
+    {
+      "title": "M Stem",
+      "subscribers": "6620",
+      "domain": "programming_tech"
+    },
+    {
+      "title": "Peeja",
+      "subscribers": "1570",
+      "domain": "programming_tech"
+    },
+    {
+      "title": "William",
+      "subscribers": "320",
+      "domain": "programming_tech"
+    },
+    {
+      "title": "Damien Henry",
+      "subscribers": "203",
+      "domain": "programming_tech"
+    }
+  ]
+}
